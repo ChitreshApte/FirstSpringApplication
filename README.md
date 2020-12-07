@@ -4,8 +4,8 @@ This is a simple Authorization-API written using Spring Boot.
 
 The user information includes
  
- -username
- -password
- -emailID
+ - username
+ - password
+ - emailID
 
 
